@@ -1,4 +1,3 @@
 # hello-world
 Learning Github
-
-Some random message
+This change was made in NewBranch
